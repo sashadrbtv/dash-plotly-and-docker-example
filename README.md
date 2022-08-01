@@ -1,5 +1,9 @@
 # Dash App (Plotly) & Docker implementation
 
+![alt text](dash_example.png "Title")
+
+# 
+
 ### Task
 In this exercise, you are given a dataset with claims data. 
 Business users are interested to see trends and 
